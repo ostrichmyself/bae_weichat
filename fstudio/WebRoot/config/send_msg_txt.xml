@@ -1,0 +1,9 @@
+<!-- 消息内容的配置 -->
+<xml>
+    <para key="ToUserName" type="cdata" value= ""/>
+    <para key="FromUserName" type="cdata" value= "fanchen_studio"/>
+    <para key="CreateTime"  value= ""/>
+    <para key="MsgType"  type="cdata" value= "text"/>
+    <para key="Content"  type="cdata" value= "感谢支持凡尘工作室: 输入数字0 优美英文推荐 输入数字  1.系统帮助.   ===>更多支持请下载Android软件《凡尘英语》: http://inform.duapp.com/static/app_dictionary/Dictionary1.1.8_31.apk "/>
+    <para key="FuncFlag"  value= ""/>
+</xml>
