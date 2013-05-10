@@ -1,3 +1,1 @@
-难道Git这么难用吗?
-
-修改一个东西如此痛苦?
+please show the change in the server, So I can see it in the client
